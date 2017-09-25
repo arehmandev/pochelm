@@ -3,5 +3,5 @@ Charts:
   - name: "anotherpoc"
     repo: "git@github.com:arehmandev/anotherpoc.git"
     branch: "master"
-    tags: "v0.1.0"	
+    tag: "v0.1.0"	
 
